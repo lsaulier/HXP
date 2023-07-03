@@ -1,4 +1,4 @@
-The implemented code for the *Experimental Results* of the paper *"Predicate-based explanation of a Reinforcement Learning agent via action importance evaluation"* is divided into four folders. Before testing our implementation, it's *necessary* to install packages of requirements.txt using the 
+The implemented code for the *Experimental Results* of the paper *"Predicate-based explanation of a Reinforcement Learning agent via action importance evaluation"* is divided into four folders. The code was done under the 3.8 Python version (this code is not working with the 3.11 version of Python).  Before testing our implementation, it's *necessary* to install packages of requirements.txt using the 
 following pip command: 
 
 ```bash
